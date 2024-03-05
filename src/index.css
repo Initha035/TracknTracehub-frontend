@@ -1,0 +1,8 @@
+body {
+  background-image: url("/vector.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-attachment: fixed;
+  height: 100vh;
+}

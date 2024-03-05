@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13.333333in" height="7.5in" class="slides-canvas" viewBox="0 0 960 540">
+  <defs>
+    <symbol id="page0-pic1" viewBox="0 0 0 0" preserveAspectRatio="none">
+      <image width="0" height="0" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAtJREFUCJljYAACAAAFAAFiVTKIAAAAAElFTkSuQmCC" />
+    </symbol>
+    <pattern id="page0-im1" x="0.11" y="0.11" width="0" height="0" patternUnits="userSpaceOnUse">
+      <use width="0" height="0" xlink:href="#page0-pic1" preserveAspectRatio="none" />
+    </pattern>
+  </defs>
+  <g text-rendering="geometricPrecision" transform="scale(1, 1)">
+    <rect x="0" y="0" width="960" height="540" fill="#FFFFFF" />
+    <path stroke-width="0.25" stroke="#808080" fill="none" d="M52.72 80.99L907.14 81.01" />
+    <path fill="#FFAB2A" fill-opacity="0.1" d="M0 0L959.98 0 959.98 539.97 0 539.97z" />
+    <rect x="0.11338583" y="0.11338583" width="0.08503937" height="0.08503937" fill="url(#page0-im1)" />
+    <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M362.95 408.78L472.62 408.78 472.62 429.56 362.95 429.56z" />
+    <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M492.41 408.78L602.08 408.78 602.08 429.56 492.41 429.56z" />
+    <g transform="matrix(0.88417363, 0.4671584, -0.4671584, 0.88417363, 181.41687, -389.19183)">
+      <path fill="#FFAB2A" d="M704.64 196.89L725.25 145.62 1046.49 145.62 1025.88 196.89z" />
+    </g>
+    <g transform="matrix(0.88417363, 0.4671584, -0.4671584, 0.88417363, 125.572266, -369.0426)">
+      <path fill="#000000" d="M597.94 83.96L610.2 53.46 1016.08 53.46 1003.82 83.96z" />
+    </g>
+    <g transform="matrix(0.8870914, 0.46159378, -0.46159378, 0.8870914, 103.7829, -418.81537)">
+      <path fill="#FFAB2A" d="M829.42 2.74L863.28-65 952.7-65 986.57 2.74 952.7 70.47 863.28 70.47z" />
+    </g>
+    <g transform="matrix(0.88417363, 0.4671584, -0.4671584, 0.88417363, 183.11018, 27.927948)">
+      <path fill="#FFAB2A" d="M-135.69 408.87L-115.08 357.59 206.16 357.59 185.55 408.87z" />
+    </g>
+    <g transform="matrix(0.88417363, 0.4671584, -0.4671584, 0.88417363, 243.61238, -27.872986)">
+      <path fill="#000000" d="M7.09 493.03L19.7 461.65 348.94 461.65 336.33 493.03z" />
+    </g>
+    <g transform="matrix(0.8870914, 0.46159378, -0.46159378, 0.8870914, 256.9192, 21.865723)">
+      <path fill="#FFAB2A" d="M5.19 536.1L39.05 468.37 128.47 468.37 162.34 536.1 128.47 603.84 39.05 603.84z" />
+    </g>
+    <g transform="matrix(0.88417363, 0.4671584, -0.4671584, 0.88417363, 340.3272, -377.24396)">
+      <path fill="#FFAB2A" d="M822.39 523.33L843 472.05 1039.46 472.05 1018.85 523.33z" />
+    </g>
+    <g transform="matrix(0.88417363, 0.4671584, -0.4671584, 0.88417363, 336.13153, -407.85867)">
+      <path fill="#000000" d="M882.03 485.26L891.14 462.59 1099.11 462.59 1089.99 485.26z" />
+    </g>
+    <g transform="matrix(0.88417363, 0.4671584, -0.4671584, 0.88417363, 22.146248, -8.902786)">
+      <path fill="#FFAB2A" d="M-79.51 65.85L-58.9 14.57 137.57 14.57 116.95 65.85z" />
+    </g>
+    <g transform="matrix(0.88417363, 0.4671584, -0.4671584, 0.88417363, 26.772232, 21.790588)">
+      <path fill="#000000" d="M-139.1 76.22L-129.98 53.55 77.98 53.55 68.87 76.22z" />
+    </g>
+  </g>
+</svg>

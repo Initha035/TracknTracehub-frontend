@@ -1,0 +1,45 @@
+/* FileInput.module.css */
+
+.dropArea {
+  border: 2px dashed #ccc;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.dropArea:hover {
+  border-color: #007bff;
+}
+
+.preview {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.noPreview {
+  border: 1px dashed #ccc;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.noPreview:hover {
+  border-color: #007bff;
+}
+
+.text-center1 {
+  text-align: center;
+}
+
+/* Optional: Style the input hidden button */
+input[type="file"] {
+  display: none;
+}
+
+/* Optional: Style the FontAwesome camera icon */
+.fa-camera {
+  font-size: 3em;
+  color: #007bff;
+}
